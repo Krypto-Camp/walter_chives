@@ -1,5 +1,5 @@
 # walter_chives solidity code
-
+```js
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -36,3 +36,4 @@ contract Chives {
         }
     }
 }
+```
